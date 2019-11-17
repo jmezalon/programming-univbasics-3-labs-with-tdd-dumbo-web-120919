@@ -1,10 +1,13 @@
 # Add your variables here
 first_number = 0
 second_number = 1
-def Add (first_number, second_number)
-  sum = first_number + second_number
-end
+sum = first_number + second_number
+difference = first_number - second_number
 
-def difference(first_number, second_number)
-  second_number - first_number
-end
+# def Add (first_number, second_number)
+#   sum = first_number + second_number
+# end
+
+# def difference(first_number, second_number)
+#   second_number - first_number
+# end
